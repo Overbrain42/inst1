@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "4.7.3",
     "theme": {
       "name": "mobirise4",
@@ -80,7 +80,7 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-q"
+          "_anchor": "instagram-feed-block-r"
         }
       ]
     }
